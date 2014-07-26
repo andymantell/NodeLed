@@ -1,0 +1,18 @@
+{
+  "name": "NodeLed",
+  "version": "0.0.0",
+  "description": "Node.js controlled LED via Raspberry Pi + Arduino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andymantell/NodeLed.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/andymantell/NodeLed/issues"
+  }
+}
